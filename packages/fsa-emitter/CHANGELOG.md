@@ -1,5 +1,11 @@
 # fsa-emitter
 
+## 3.0.1
+
+### Patch Changes
+
+- 1fce62f: Update `type-plus` to `8.0.0-beta.12` and `tersify` to `^4.0.8`.
+
 ## 3.0.0
 
 ### Major Changes
