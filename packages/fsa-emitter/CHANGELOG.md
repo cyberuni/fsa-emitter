@@ -1,5 +1,11 @@
 # fsa-emitter
 
+## 3.0.2
+
+### Patch Changes
+
+- c8c7173: Update `type-plus` to `8.0.0`.
+
 ## 3.0.1
 
 ### Patch Changes
