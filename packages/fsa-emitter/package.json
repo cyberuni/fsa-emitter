@@ -1,6 +1,6 @@
 {
 	"name": "fsa-emitter",
-	"version": "3.0.2",
+	"version": "3.0.3",
 	"description": "Emitter using Flux Standard Action",
 	"keywords": [
 		"fsa",
