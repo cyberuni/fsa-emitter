@@ -1,5 +1,11 @@
 # fsa-emitter
 
+## 3.0.3
+
+### Patch Changes
+
+- 59237b9: Include `CHANGELOG.md` in the published package.
+
 ## 3.0.2
 
 ### Patch Changes
